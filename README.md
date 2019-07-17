@@ -1,5 +1,5 @@
 # naturaldocs_docker
-Dockerfile for NaturalDocs
+Dockerfile for [NaturalDocs](https://www.naturaldocs.org) version 2.0.2
 
 Docker Hub: https://hub.docker.com/r/s417lama/naturaldocs
 
